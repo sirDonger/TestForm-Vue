@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.w-full.max-w-lg {
+    margin: 0 auto;
+}
+.btn{
+    margin: 0 auto;
+}
+.rounded{
+    margin-top: 20px;
+}
